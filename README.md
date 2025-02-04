@@ -2,7 +2,7 @@
 
 This project provides a 3D-style interactive matrix component built in Next.js. Each cell represents a floating-point number between 0 and 1. You can switch between multiple “layers” of data, including a total/average layer.
 
-![Demo](https://github.com/HarryRudolph/Interactive-Matrix-Component/blob/assets/demo.mp4)
+![Demo](https://github.com/HarryRudolph/Interactive-Matrix-Component/raw/assets/demo.mp4)
 
 ## Features
 
